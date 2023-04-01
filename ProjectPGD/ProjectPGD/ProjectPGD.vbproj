@@ -1,0 +1,311 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{73675815-8831-4F66-BB92-8FBDFE5A5BF1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>ProjectPGD.My.MyApplication</StartupObject>
+    <RootNamespace>ProjectPGD</RootNamespace>
+    <AssemblyName>ProjectPGD</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>ProjectPGD.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>ProjectPGD.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DotSpatial.Controls, Version=0.11.9.6, Culture=neutral, PublicKeyToken=4d9e49339a7d240c, processorArchitecture=MSIL">
+      <HintPath>..\packages\DotSpatial.Controls.1.0.0.0\lib\net40\DotSpatial.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="DotSpatial.Data, Version=0.11.9.6, Culture=neutral, PublicKeyToken=c29dbf30e059ca9d, processorArchitecture=MSIL">
+      <HintPath>..\packages\DotSpatial.Data.1.0.0.0\lib\net40-Client\DotSpatial.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="DotSpatial.Data.Forms, Version=0.11.9.6, Culture=neutral, PublicKeyToken=53ab5a198378d4c1, processorArchitecture=MSIL">
+      <HintPath>..\packages\DotSpatial.Data.Forms.1.0.0.0\lib\net40-Client\DotSpatial.Data.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="DotSpatial.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=4d9e49339a7d240c, processorArchitecture=MSIL">
+      <HintPath>..\packages\DotSpatial.Extensions.1.0.0.0\lib\net40-Client\DotSpatial.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="DotSpatial.Modeling.Forms, Version=0.11.9.6, Culture=neutral, PublicKeyToken=712bef29a31a9354, processorArchitecture=MSIL">
+      <HintPath>..\packages\DotSpatial.Modeling.Forms.1.0.0.0\lib\net40-Client\DotSpatial.Modeling.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="DotSpatial.Projections, Version=0.11.9.6, Culture=neutral, PublicKeyToken=272632bddd08a38b, processorArchitecture=MSIL">
+      <HintPath>..\packages\DotSpatial.Projections.1.0.0.0\lib\net40-Client\DotSpatial.Projections.dll</HintPath>
+    </Reference>
+    <Reference Include="DotSpatial.Projections.Forms, Version=0.11.9.6, Culture=neutral, PublicKeyToken=52099474f11b7ff0, processorArchitecture=MSIL">
+      <HintPath>..\packages\DotSpatial.Projections.Forms.1.0.0.0\lib\net40-Client\DotSpatial.Projections.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="DotSpatial.Serialization, Version=0.11.9.6, Culture=neutral, PublicKeyToken=441f200f827611e7, processorArchitecture=MSIL">
+      <HintPath>..\packages\DotSpatial.Serialization.1.0.0.0\lib\net40-Client\DotSpatial.Serialization.dll</HintPath>
+    </Reference>
+    <Reference Include="DotSpatial.Symbology, Version=0.11.9.6, Culture=neutral, PublicKeyToken=6178c08da7998387, processorArchitecture=MSIL">
+      <HintPath>..\packages\DotSpatial.Symbology.1.0.0.0\lib\net40-Client\DotSpatial.Symbology.dll</HintPath>
+    </Reference>
+    <Reference Include="DotSpatial.Symbology.Forms, Version=0.11.9.6, Culture=neutral, PublicKeyToken=0544cdeefb662382, processorArchitecture=MSIL">
+      <HintPath>..\packages\DotSpatial.Symbology.Forms.1.0.0.0\lib\net40\DotSpatial.Symbology.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="DotSpatial.Topology, Version=0.11.9.6, Culture=neutral, PublicKeyToken=a66b5e9434ca3671, processorArchitecture=MSIL">
+      <HintPath>..\packages\DotSpatial.Topology.1.0.0.0\lib\net40-Client\DotSpatial.Topology.dll</HintPath>
+    </Reference>
+    <Reference Include="Krypton.Ribbon, Version=5.550.2108.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Krypton.Ribbon.5.550.2108.1\lib\net48\Krypton.Ribbon.dll</HintPath>
+    </Reference>
+    <Reference Include="Krypton.Toolkit, Version=5.550.2108.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Krypton.Toolkit.5.550.2108.1\lib\net48\Krypton.Toolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formAddPoint.Designer.vb">
+      <DependentUpon>formAddPoint.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formAddPoint.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formPopUp.Designer.vb">
+      <DependentUpon>formPopUp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formPopUp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formAddPoint.resx">
+      <DependentUpon>formAddPoint.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formPopUp.resx">
+      <DependentUpon>formPopUp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+    <Content Include="Resources\Database\NonSpatial\Icon\IconArea.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Database\NonSpatial\Icon\IconIdentify.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Database\NonSpatial\Icon\IconKantorCamat.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Database\NonSpatial\Icon\IconKantorGubernur.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Database\NonSpatial\Icon\IconKantorLurah.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Database\NonSpatial\Icon\IconKantorWaliKota.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Database\NonSpatial\Icon\IconLength.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Database\NonSpatial\Icon\IconNext.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Database\NonSpatial\Icon\IconNormal.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Database\NonSpatial\Icon\IconPan.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Database\NonSpatial\Icon\IconPreview.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Database\NonSpatial\Icon\IconZoomIn.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Database\NonSpatial\Icon\IconZoomOut.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Database\NonSpatial\Icon\IconZoomToExtent.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Database\Spatial\ADMINISTRASIDESA_AR_25K.cpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Database\Spatial\ADMINISTRASIDESA_AR_25K.dbf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Database\Spatial\ADMINISTRASIDESA_AR_25K.prj">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Database\Spatial\ADMINISTRASIDESA_AR_25K.sbn">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Database\Spatial\ADMINISTRASIDESA_AR_25K.sbx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Database\Spatial\ADMINISTRASIDESA_AR_25K.shp">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Database\Spatial\ADMINISTRASIDESA_AR_25K.shx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Database\Spatial\JALAN_LN_25K.cpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Database\Spatial\JALAN_LN_25K.dbf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Database\Spatial\JALAN_LN_25K.prj">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Database\Spatial\JALAN_LN_25K.sbn">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Database\Spatial\JALAN_LN_25K.sbx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Database\Spatial\JALAN_LN_25K.shp">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Database\Spatial\JALAN_LN_25K.shx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Database\Spatial\PEMERINTAHAN_PT_25K.cpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Database\Spatial\PEMERINTAHAN_PT_25K.dbf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Database\Spatial\PEMERINTAHAN_PT_25K.prj">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Database\Spatial\PEMERINTAHAN_PT_25K.sbn">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Database\Spatial\PEMERINTAHAN_PT_25K.sbx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Database\Spatial\PEMERINTAHAN_PT_25K.shp">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Database\Spatial\PEMERINTAHAN_PT_25K.shx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Resources\Database\NonSpatial\Foto\KantorCamat.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Database\NonSpatial\Foto\KantorGubernur.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Database\NonSpatial\Foto\KantorLurah.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Database\NonSpatial\Foto\KantorWalikota.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Database\Spatial\ADMINISTRASIDESA_AR_25K.shp.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Database\Spatial\JALAN_LN_25K.shp.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Database\Spatial\PEMERINTAHAN_PT_25K.shp.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

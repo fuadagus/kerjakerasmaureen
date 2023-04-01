@@ -1,0 +1,167 @@
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\ProjectPGD.exe.config
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\ProjectPGD.exe
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\ProjectPGD.pdb
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\ProjectPGD.xml
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\DotSpatial.Controls.dll
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\DotSpatial.Data.dll
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\DotSpatial.Data.Forms.dll
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\DotSpatial.Extensions.dll
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\DotSpatial.Modeling.Forms.dll
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\DotSpatial.Projections.dll
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\DotSpatial.Projections.Forms.dll
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\DotSpatial.Serialization.dll
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\DotSpatial.Symbology.dll
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\DotSpatial.Symbology.Forms.dll
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\DotSpatial.Topology.dll
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\Krypton.Ribbon.dll
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\Krypton.Toolkit.dll
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\DotSpatial.Controls.xml
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\DotSpatial.Data.xml
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\DotSpatial.Data.Forms.xml
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\DotSpatial.Extensions.xml
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\DotSpatial.Modeling.Forms.xml
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\DotSpatial.Projections.xml
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\DotSpatial.Projections.Forms.xml
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\DotSpatial.Serialization.xml
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\DotSpatial.Symbology.xml
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\DotSpatial.Symbology.Forms.xml
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\DotSpatial.Topology.xml
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\Krypton.Ribbon.xml
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\Krypton.Toolkit.xml
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\obj\Debug\ProjectPGD.vbproj.AssemblyReference.cache
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\obj\Debug\ProjectPGD.Form1.resources
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\obj\Debug\ProjectPGD.formAddPoint.resources
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\obj\Debug\ProjectPGD.formPopUp.resources
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\obj\Debug\ProjectPGD.Resources.resources
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\obj\Debug\ProjectPGD.vbproj.GenerateResource.cache
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\obj\Debug\ProjectPGD.vbproj.CoreCompileInputs.cache
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\obj\Debug\ProjectPGD.vbproj.CopyComplete
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\obj\Debug\ProjectPGD.exe
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\obj\Debug\ProjectPGD.xml
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\obj\Debug\ProjectPGD.pdb
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\NonSpatial\Icon\IconArea.png
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\NonSpatial\Icon\IconIdentify.jpg
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\NonSpatial\Icon\IconKantorCamat.jpg
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\NonSpatial\Icon\IconKantorGubernur.png
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\NonSpatial\Icon\IconKantorLurah.jpg
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\NonSpatial\Icon\IconKantorWaliKota.jpg
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\NonSpatial\Icon\IconLength.png
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\NonSpatial\Icon\IconNext.png
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\NonSpatial\Icon\IconNormal.png
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\NonSpatial\Icon\IconPan.png
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\NonSpatial\Icon\IconPreview.png
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\NonSpatial\Icon\IconZoomIn.png
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\NonSpatial\Icon\IconZoomOut.png
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\NonSpatial\Icon\IconZoomToExtent.jpg
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\Spatial\ADMINISTRASIDESA_AR_25K.cpg
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\Spatial\ADMINISTRASIDESA_AR_25K.dbf
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\Spatial\ADMINISTRASIDESA_AR_25K.prj
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\Spatial\ADMINISTRASIDESA_AR_25K.sbn
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\Spatial\ADMINISTRASIDESA_AR_25K.sbx
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\Spatial\ADMINISTRASIDESA_AR_25K.shp
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\Spatial\ADMINISTRASIDESA_AR_25K.shx
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\Spatial\JALAN_LN_25K.cpg
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\Spatial\JALAN_LN_25K.dbf
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\Spatial\JALAN_LN_25K.prj
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\Spatial\JALAN_LN_25K.sbn
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\Spatial\JALAN_LN_25K.sbx
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\Spatial\JALAN_LN_25K.shp
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\Spatial\JALAN_LN_25K.shx
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\Spatial\PEMERINTAHAN_PT_25K.cpg
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\Spatial\PEMERINTAHAN_PT_25K.dbf
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\Spatial\PEMERINTAHAN_PT_25K.prj
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\Spatial\PEMERINTAHAN_PT_25K.sbn
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\Spatial\PEMERINTAHAN_PT_25K.sbx
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\Spatial\PEMERINTAHAN_PT_25K.shp
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\Spatial\PEMERINTAHAN_PT_25K.shx
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\NonSpatial\Foto\KantorCamat.jpg
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\NonSpatial\Foto\KantorGubernur.jpg
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\NonSpatial\Foto\KantorLurah.jpg
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\NonSpatial\Foto\KantorWalikota.jpg
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\Spatial\ADMINISTRASIDESA_AR_25K.shp.xml
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\Spatial\JALAN_LN_25K.shp.xml
+D:\PROJECT PGD Acara 4 & 5\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\Spatial\PEMERINTAHAN_PT_25K.shp.xml
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\NonSpatial\Icon\IconArea.png
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\NonSpatial\Icon\IconIdentify.jpg
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\NonSpatial\Icon\IconKantorCamat.jpg
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\NonSpatial\Icon\IconKantorGubernur.png
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\NonSpatial\Icon\IconKantorLurah.jpg
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\NonSpatial\Icon\IconKantorWaliKota.jpg
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\NonSpatial\Icon\IconLength.png
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\NonSpatial\Icon\IconNext.png
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\NonSpatial\Icon\IconNormal.png
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\NonSpatial\Icon\IconPan.png
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\NonSpatial\Icon\IconPreview.png
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\NonSpatial\Icon\IconZoomIn.png
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\NonSpatial\Icon\IconZoomOut.png
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\NonSpatial\Icon\IconZoomToExtent.jpg
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\Spatial\ADMINISTRASIDESA_AR_25K.cpg
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\Spatial\ADMINISTRASIDESA_AR_25K.dbf
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\Spatial\ADMINISTRASIDESA_AR_25K.prj
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\Spatial\ADMINISTRASIDESA_AR_25K.sbn
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\Spatial\ADMINISTRASIDESA_AR_25K.sbx
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\Spatial\ADMINISTRASIDESA_AR_25K.shp
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\Spatial\ADMINISTRASIDESA_AR_25K.shx
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\Spatial\JALAN_LN_25K.cpg
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\Spatial\JALAN_LN_25K.dbf
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\Spatial\JALAN_LN_25K.prj
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\Spatial\JALAN_LN_25K.sbn
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\Spatial\JALAN_LN_25K.sbx
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\Spatial\JALAN_LN_25K.shp
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\Spatial\JALAN_LN_25K.shx
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\Spatial\PEMERINTAHAN_PT_25K.cpg
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\Spatial\PEMERINTAHAN_PT_25K.dbf
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\Spatial\PEMERINTAHAN_PT_25K.prj
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\Spatial\PEMERINTAHAN_PT_25K.sbn
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\Spatial\PEMERINTAHAN_PT_25K.sbx
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\Spatial\PEMERINTAHAN_PT_25K.shp
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\Spatial\PEMERINTAHAN_PT_25K.shx
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\NonSpatial\Foto\KantorCamat.jpg
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\NonSpatial\Foto\KantorGubernur.jpg
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\NonSpatial\Foto\KantorLurah.jpg
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\NonSpatial\Foto\KantorWalikota.jpg
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\Spatial\ADMINISTRASIDESA_AR_25K.shp.xml
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\Spatial\JALAN_LN_25K.shp.xml
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\Resources\Database\Spatial\PEMERINTAHAN_PT_25K.shp.xml
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\ProjectPGD.exe.config
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\ProjectPGD.exe
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\ProjectPGD.pdb
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\ProjectPGD.xml
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\DotSpatial.Controls.dll
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\DotSpatial.Data.dll
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\DotSpatial.Data.Forms.dll
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\DotSpatial.Extensions.dll
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\DotSpatial.Modeling.Forms.dll
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\DotSpatial.Projections.dll
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\DotSpatial.Projections.Forms.dll
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\DotSpatial.Serialization.dll
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\DotSpatial.Symbology.dll
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\DotSpatial.Symbology.Forms.dll
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\DotSpatial.Topology.dll
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\Krypton.Ribbon.dll
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\Krypton.Toolkit.dll
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\DotSpatial.Controls.xml
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\DotSpatial.Data.xml
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\DotSpatial.Data.Forms.xml
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\DotSpatial.Extensions.xml
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\DotSpatial.Modeling.Forms.xml
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\DotSpatial.Projections.xml
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\DotSpatial.Projections.Forms.xml
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\DotSpatial.Serialization.xml
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\DotSpatial.Symbology.xml
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\DotSpatial.Symbology.Forms.xml
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\DotSpatial.Topology.xml
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\Krypton.Ribbon.xml
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\bin\Debug\Krypton.Toolkit.xml
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\obj\Debug\ProjectPGD.vbproj.AssemblyReference.cache
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\obj\Debug\ProjectPGD.vbproj.SuggestedBindingRedirects.cache
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\obj\Debug\ProjectPGD.Form1.resources
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\obj\Debug\ProjectPGD.formAddPoint.resources
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\obj\Debug\ProjectPGD.formPopUp.resources
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\obj\Debug\ProjectPGD.Resources.resources
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\obj\Debug\ProjectPGD.vbproj.GenerateResource.cache
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\obj\Debug\ProjectPGD.vbproj.CoreCompileInputs.cache
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\obj\Debug\ProjectPGD.vbproj.CopyComplete
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\obj\Debug\ProjectPGD.exe
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\obj\Debug\ProjectPGD.xml
+C:\SIG\Semester2\Prak PGD\Acara 5\Maureen\ProjectPGD\ProjectPGD\obj\Debug\ProjectPGD.pdb
